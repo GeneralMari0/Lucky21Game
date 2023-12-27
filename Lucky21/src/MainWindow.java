@@ -211,7 +211,7 @@ public class MainWindow{
 		gameCreated.setVisible(true);
 		
 		
-		JLabel mason = new JLabel("Mason Paquette");
+		JLabel mason = new JLabel("Mason P.");
 		mason.setForeground(new Color(255, 255, 255));
 		mason.setBackground(Color.RED);
 		mason.setFont(new Font("Comic Sans MS", Font.PLAIN, 18));
@@ -219,7 +219,7 @@ public class MainWindow{
 		frame.getContentPane().add(mason);
 		mason.setVisible(true);
 		
-		JLabel jun  = new JLabel("Junli Liu");
+		JLabel jun  = new JLabel("Junli L.");
 		jun.setForeground(new Color(255, 255, 255));
 		jun.setBackground(Color.RED);
 		jun.setFont(new Font("Comic Sans MS", Font.PLAIN, 18));
@@ -227,7 +227,7 @@ public class MainWindow{
 		frame.getContentPane().add(jun);
 		jun.setVisible(true);
 		
-		JLabel chase  = new JLabel("Chase Chang");
+		JLabel chase  = new JLabel("Chase C.");
 		chase.setForeground(new Color(255, 255, 255));
 		chase.setBackground(Color.RED);
 		chase.setFont(new Font("Comic Sans MS", Font.PLAIN, 18));
